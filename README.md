@@ -1,2 +1,2 @@
 # Bamazon
-![Bamazon](https://github.com/saadalshamry/Bamazon/edit/master/Bamazon.gif)
+![Bamazon](https://github.com/saadalshamry/Bamazon/blob/master/Bamazon.gif)
